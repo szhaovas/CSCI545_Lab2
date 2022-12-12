@@ -1,6 +1,8 @@
 ## CSCI545 Lab2: Particle Filter Localization
 ![demo](demo.gif)
 
+# (NOTE: This assignment came with most of the framework already written, so I did not write most of the codes)
+
 # Features
 - Lidar and Odometry readings simulated through bag file
 - improved sensor model accounting for 4 possible scenarios
